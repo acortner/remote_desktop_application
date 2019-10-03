@@ -1,0 +1,95 @@
+
+/* Color of background behind "ERISOne Applications" title */
+.skin-blue .main-header .logo {
+  background-color: #194755;
+}
+
+/* Color of background behind hovered "ERISOne Applications" title */
+.skin-blue .main-header .logo:hover {
+  background-color: #194755;
+}
+
+/* navbar (rest of the header) */
+.skin-blue .main-header .navbar {
+  background-color: #2f5966;
+}
+
+
+.info-box {
+  min-height: 65px;
+} 
+
+.info-box-icon {
+  height: 65px; 
+  line-height: 65px;
+} 
+  .info-box-content {
+    padding-top: 
+    0px; 
+    padding-bottom:0px;
+    
+  }
+  
+  .action-button {
+    color: white;
+    background-color: #194755;
+    border-color: #163f4c;
+  }
+  
+  .action-button:hover {
+    color: white;
+    background-color: #194755;
+    border-color: #163f4c;
+  }
+
+.action-button:active {
+  color: white;
+  background-color: #143844;
+  
+}
+  
+ a {
+  color: #ec694d;
+  text-decoration: underline;
+    
+}
+
+a:hover {
+  color: #ec694d;
+}
+
+footer {
+  width: 100%;
+  color: white;
+  padding: 20px;
+  background-color: #194755;
+  font-size: 18px;
+}
+
+footer a {
+  color: white;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.twitter {
+  text-decoration: none;
+}
+
+.footer p {
+  padding: 0 20px;
+  font-weight: bold;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+}
